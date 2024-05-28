@@ -1,6 +1,8 @@
 # Some Copilot prompts to try...
 
-Summarize messages from my manager in the last week. I'd like each email to be presented with the subject line bolded for quick reference, followed by a bulleted list of key points or action items from the content. 
+```
+Summarize messages from my manager in the last week. I'd like each email to be presented with the subject line bolded for quick reference, followed by a bulleted list of key points or action items from the content
+```
 
 Summarize my mails, Teams messages and channel messages from the last workday. List action items in a dedicated column. Suggest follow-ups if possible in a dedicated column. The table should look like this: Type (Mail/Teams/Channel) | Topic | Summarization | Action item | Follow-up. If I have been directly mentioned, make the font of the topic bold. I prefer accuracy over speed.
 
